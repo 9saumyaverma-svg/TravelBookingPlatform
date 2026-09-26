@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly plan and book your travel with a combined search for flights and hotels, complete with a trip summary, bundled pricing, and easy rebooking options.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
